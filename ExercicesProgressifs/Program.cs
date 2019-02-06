@@ -6,7 +6,7 @@ namespace ExercicesProgressifs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Exercice8.Run();
         }
     }
 }
